@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Portfolio
 
 "Experienced Software Engineer with a demonstrated history of working in the higher IT industry for about 3 years. Skilled in Python, Java7/8, PHP, C++, REST API's, web technology, MVC frameworks, Agile and Waterfall models. I love to learn new technologies and implement them to get a hands-on experience. Moving ahead I would like to learn more about Artificial Intelligence and how I can apply it to make day to day life easier and safer for the people and the environment.
 A professional with a Master’s Degree focused in Computer Science from The University of Massachusetts Boston, I am consistently learning and expanding my skills so that I can provide the best value to my clients"
