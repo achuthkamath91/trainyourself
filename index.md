@@ -1,5 +1,18 @@
 ## Welcome to GitHub Pages
 
+"Experienced Software Engineer with a demonstrated history of working in the higher IT industry for about 3 years. Skilled in Python, Java7/8, PHP, C++, REST API's, web technology, MVC frameworks, Agile and Waterfall models. I love to learn new technologies and implement them to get a hands-on experience. Moving ahead I would like to learn more about Artificial Intelligence and how I can apply it to make day to day life easier and safer for the people and the environment.
+A professional with a Master’s Degree focused in Computer Science from The University of Massachusetts Boston, I am consistently learning and expanding my skills so that I can provide the best value to my clients"
+
+Personal Skills and Achievements:-
+- Creative Problem Solver
+- Solid understanding & experience of OO programming and design patterns
+- Passion for technology & technical aptitude
+- Insightful & always looking for breakthrough ideas
+- A desire to keep learning, growing, teaching & helping
+- Precise and efficient communicator
+- Engaged with key internal teams, specifically Product and R&D, in order to identify, develop and support new features and functionality that best meet the needs of our clients and the broader network
+- Developed specific areas of subject matter expertise within the context of integration/Coordinator (client types, use cases, tools, etc.) that was relied on by the team and broader organization
+
 You can use the [editor on GitHub](https://github.com/achuthkamath91/trainyourself/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
